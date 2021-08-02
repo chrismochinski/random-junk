@@ -5,3 +5,8 @@
 // using CMD + / it comments out the whole line - don't even need to select!
 
 // use in command line-  file filename.jpg  - to get file info like dim, etc
+
+// get WiFi pass via terminal:
+// security find-generic-password -ga IWantMyHatBack
+// (...or whatever network)
+ 

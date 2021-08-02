@@ -1,0 +1,63 @@
+/* style sheet for my little goof-around project! */
+
+h1 {
+  font-size: 40px;
+  font-family: verdana, sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-block-start: 4px;
+  margin-block-end: 4px;
+}
+
+h2 {
+  padding-top: 0px;
+  font-size: 26px;
+  font-family: verdana, sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h4 {
+  margin-block-start: 12px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+h5 {
+  margin-block-start: 5px;
+  text-align: center;
+  font-weight: lighter;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+
+ul {
+  text-align: center;
+  font-family: cursive;
+  font-weight: light;
+  font-variant: small-caps;
+  list-style-position: inside;
+  display: inline-block;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.picAndCap {
+    display: inline-grid:
+    text-align: right;
+}

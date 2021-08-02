@@ -1,3 +1,5 @@
+console.log('some fun facts in the notes...');
+
 //THIS IS MY 'WORD OF THE DAY' FILE
 //I'll use this to keep track of terms I find interesting.
 //----------------------------------------------------
@@ -23,4 +25,4 @@
     //INSTANTIATE - represent as or by an instance
 //"a study of two groups who seemed to instantiate productive aspects of this"
 //
-    //CLI - "Command Line Interface" - should probably figure out if this term is common
+    //C.L.I. (no dots) - "Command Line Interface" - should probably figure out if this term is common
