@@ -9,4 +9,3 @@
 // get WiFi pass via terminal:
 // security find-generic-password -ga IWantMyHatBack
 // (...or whatever network)
- 
