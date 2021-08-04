@@ -9,3 +9,8 @@
 // get WiFi pass via terminal:
 // security find-generic-password -ga IWantMyHatBack
 // (...or whatever network)
+
+// MOVE SOMETHING IN TERMINAL:
+// simply use mv
+// if moving in same/simiar directory, might need to practice
+// mv index.html NEWFOLDER - simple as that!
