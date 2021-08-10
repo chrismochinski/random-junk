@@ -26,3 +26,10 @@ console.log('some fun facts in the notes...');
 //"a study of two groups who seemed to instantiate productive aspects of this"
 //
     //C.L.I. (no dots) - "Command Line Interface" - should probably figure out if this term is common
+
+    //----------------------------------------------------
+
+
+            //WEEK-5-------------
+
+            

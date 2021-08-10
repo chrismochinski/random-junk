@@ -14,3 +14,8 @@
 // simply use mv
 // if moving in same/simiar directory, might need to practice
 // mv index.html NEWFOLDER - simple as that!
+
+
+//"Folded Up" [in chrome] = array type thing in one Line
+//"Unfolded" [in chrome/browser] = line by Line
+          //objects will be in ALPHA ORDER in Chrome when unfolded
