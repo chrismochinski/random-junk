@@ -19,3 +19,17 @@
 //"Folded Up" [in chrome] = array type thing in one Line
 //"Unfolded" [in chrome/browser] = line by Line
           //objects will be in ALPHA ORDER in Chrome when unfolded
+
+//"Compound Conditional" uses "or" which looks like this: ||
+
+//CSS "em" unit of measurement is
+
+MULTI-LINE COMMENTS!! -
+
+/* You can create multiple lines of comments
+with these funny characters instead of
+using the two forward-slashes for inline
+comments - sweet!!
+*/
+
+//NAN VS NULL -

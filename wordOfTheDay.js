@@ -32,4 +32,29 @@ console.log('some fun facts in the notes...');
 
             //WEEK-5-------------
 
-            
+    // COMPOUND CONDITIONAL - uses OR which is ||
+
+    //PARSE / PARSING -
+/* To parse is to break up a sentence or group of words into
+separate components, including the definition of each part's
+function or form. ... Parsing is used in all high-level
+programming languages. Languages like C++ and Java are parsed
+by their respective compilers before being transformed
+into executable machine code.
+*/
+
+    //NaN -
+/* 'Not A Number'
+Used to denote that the value of an object is NOT a number
+*/
+
+    //null -
+//object is empty and isn't pointing to any memory address
+//exits but has been deliberately been given an empty value
+
+    //undefined
+//The object doesn' thave any value, therefore undefined.
+//When you create a variable but don't assign a value to it.
+//Exists but hasn't been given a value...yet
+
+    //
